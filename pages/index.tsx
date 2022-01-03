@@ -42,7 +42,7 @@ export default function Home() {
         <p className="font-mono text-center text-gray-50 text-md">
           This project is open-source, feel free to star and contribute on{" "}
           <a
-            href="https://github.com/avneesh0612/hashnode-analytics"
+            href="https://github.com/uvacoder/hashnode-analytics"
             className="font-bold hover:underline"
             rel="noreferrer"
             target="_blank"
