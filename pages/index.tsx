@@ -25,7 +25,7 @@ export default function Home() {
         onSubmit={handleSubmit}
       >
         <h1 className="font-mono text-2xl font-extrabold text-center text-gray-50">
-          Hashnode Stats
+          Hashnode Data and Stats
         </h1>
         <p className="font-mono text-center text-gray-50 text-md">
           This website shows various statistics of{" "}
@@ -42,7 +42,7 @@ export default function Home() {
         <p className="font-mono text-center text-gray-50 text-md">
           This project is open-source, feel free to star and contribute on{" "}
           <a
-            href="https://github.com/uvacoder/hashnode-analytics"
+            href="https://github.com/uvacoder/abchashnode-data"
             className="font-bold hover:underline"
             rel="noreferrer"
             target="_blank"
