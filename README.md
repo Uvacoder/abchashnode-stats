@@ -1,15 +1,12 @@
 <h1 align="center">Welcome to Hashnode Stats 👋</h1>
-<p>
-  <a href="https://twitter.com/avneesh0612" target="_blank">
-    <img alt="Twitter: avneesh0612" src="https://img.shields.io/twitter/follow/avneesh0612.svg?style=social" />
-  </a>
-</p>
 
 > This app let's you see stats for any hashnode profile
 
-### 🏠 [Homepage](https://hashnode-stats.vercel.app/)
+![demo](./public/screenshot-abchashnode-stats.png)
 
-### ✨ [Demo](https://hashnode-stats.vercel.app/)
+### 🏠 [Homepage](https://abchashnode-stats.vercel.app/)
+
+### ✨ [Demo](https://abchashnode-stats.vercel.app/)
 
 ## Install
 
